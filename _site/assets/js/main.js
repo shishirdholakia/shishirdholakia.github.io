@@ -60,10 +60,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/slides/slide01.jpg': '0% 35%',
-							'images/slides/slide02.jpg': 'center',
-							'images/slides/slide03.jpg': 'center',
-							'images/slides/slide04.jpg': 'center'
+							'images/slides/seb.jpg': '0% 35%', //*** slide01.jpg
+							'images/slides/veil_blurred.jpg': 'center', //*** slide01.jpg
+							'images/slides/wt.jpg': 'center',
+							'images/slides/dcb.jpg': 'center'
 						},
 
 					// Delay.
