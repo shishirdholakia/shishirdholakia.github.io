@@ -2484,7 +2484,7 @@ input, select, textarea {
 				float: none; /* Remove float to center the image */
 				margin: 0 auto; /* Center the image horizontally */
 				display: block; /* Ensure the image is displayed as a block element */
-				object-fit: cover
+				width: 100%;
 			}
 		}
 
