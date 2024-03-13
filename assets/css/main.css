@@ -2477,6 +2477,15 @@ input, select, textarea {
 			margin: 0 0 1rem 1.5rem;
 			top: 0.25rem;
 		}
+		/* Erase if needed */
+
+		@media (max-width: 768px) {
+			.image.right {
+				float: none; /* Remove float to center the image */
+				margin: 0 auto; /* Center the image horizontally */
+				display: block; /* Ensure the image is displayed as a block element */
+			}
+		}
 
 		.image.fit {
 			display: block;
